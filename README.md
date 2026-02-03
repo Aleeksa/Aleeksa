@@ -2,9 +2,8 @@
 <h3 align="center">• Computer Engineering Embedded & Systems •</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Profile-Views-blueviolet?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/University-RAF-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Location-Vranje-0077B5?style=for-the-badge&logo=google-maps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Location-Belgrade-0077B5?style=for-the-badge&logo=google-maps&logoColor=white" />
 </p>
 
 ---
