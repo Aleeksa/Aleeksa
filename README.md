@@ -89,7 +89,7 @@ Strastven sam u kreiranju sistema gde se **hardver i softver savršeno kombinuju
 ## 📫 Kontakt
 
 <p align="center">
-  <a href="mailto:aleksa.antic1205@yahoo.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=yahoo&logoColor=white" />
+  <a href="mailto:aleksa.antic1205@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
