@@ -1,8 +1,8 @@
 <h1 align="center">Aleksa Antić</h1>
-<h3 align="center">• Embedded Systems Engineer •</h3>
+<h3 align="center">• Computer Engineering Embedded & Systems •</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Company-RAF-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/University-RAF-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Location-Belgrade-0077B5?style=for-the-badge&logo=google-maps&logoColor=white" />
 </p>
 
@@ -10,12 +10,12 @@
 
 ## 🚀 O meni
 
-Profesionalac u oblasti **Računarskog inženjerstva i embedded sistema**, sa fokusom na **nisko-latentnu obradu, IoT i WebAssembly**.  
-Strastven u razvoju sistema gde se **hardver i softver savršeno kombinuju**.  
+Student **Računarskog inženjerstva na RAF-u**, fokusiran na **embedded sisteme, nisko-latentnu obradu i WebAssembly**.  
+Strastven sam u kreiranju sistema gde se **hardver i softver savršeno kombinuju**.  
 
 - 🧬 **Obrada bio-signala** — real-time prikupljanje i analiza EKG & RSP signala (LSL pipelines)  
 - 🌐 **WebAssembly** — portovanje optimizovanih C algoritama u browser  
-- 📟 **Embedded sistemi** — ESP32, Arduino, STM32, Raspberry Pi, low-level C & concurrency  
+- 📟 **Embedded sistemi** — ESP32, Arduino, low-level C i konkurentnost  
 - ⚙️ **Optimizacija algoritama** — memorijski i performansno efikasna rešenja  
 
 ---
@@ -31,6 +31,8 @@ Strastven u razvoju sistema gde se **hardver i softver savršeno kombinuju**.
   <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white" />
   <img src="https://img.shields.io/badge/Pico-2EB67D?style=for-the-badge&logo=raspberry-pi&logoColor=white" />
   <img src="https://img.shields.io/badge/STM32-005BAC?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/XAMPP-FCC624?style=for-the-badge&logo=xampp&logoColor=black" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
@@ -89,8 +91,5 @@ Strastven u razvoju sistema gde se **hardver i softver savršeno kombinuju**.
 <p align="center">
   <a href="mailto:aleksa.antic1205@yahoo.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/aleksa-antic">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
