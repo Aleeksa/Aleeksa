@@ -88,11 +88,8 @@ My focus is on **embedded development, low-latency processing, and WebAssembly**
 ## 📫 Contact
 
 <p align="center">
-  <a href="mailto:aleksantic@email.com">
+  <a href="mailto:aleksa.antic1205@email.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/aleksa-antic">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
