@@ -59,15 +59,15 @@ I care about **latency, determinism and understanding systems from the ground up
 
 > 💡 *Click on a project title to open the repository.*
 
-### 💓 **BioSignal Real-Time Suite**
+### 💓 [BioSignal Real-Time Suite](link)
 Real-time analysis of EKG and respiratory signals using **pylsl** and **BLE**.  
 Designed for accurate acquisition and low-latency processing.
 
-### 🖼️ **WASM Image Processing**
+### 🖼️ [WASM Image Processing](link)
 Image manipulation and RGB histogram computation directly in the browser.  
 Native **C performance**, delivered via **WebAssembly**.
 
-### 📡 **IoT Multi-Threaded Counter**
+### 📡 [IoT Multi-Threaded Counter](link)
 ESP32-based system using `_thread` for parallel sensor processing and web serving.
 
 ---
@@ -80,7 +80,7 @@ ESP32-based system using `_thread` for parallel sensor processing and web servin
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AleksaAntic&theme=dracula&bg_color=00000000&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AleksaAntic&theme=dracula&bg_color=00000000&hide_border=true" width="100%" />
 </p>
 
 ---
