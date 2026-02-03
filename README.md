@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=gradient&height=200&section=header&text=Aleksa%20Antić&fontSize=70&animation=fadeIn&fontAlignY=38" />
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=gradient&height=200&section=header&text=Aleksa%20Antic&fontSize=70&animation=fadeIn&fontAlignY=38" />
 </p>
 
 <h2 align="center">Computer Engineering · Embedded · Low-Level · WASM</h2>
