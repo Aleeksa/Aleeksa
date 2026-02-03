@@ -15,8 +15,8 @@
 
 ## 🚀 About Me
 
-I am a **computer engineering student** passionate about building systems where **hardware and software meet**.  
-My focus is on **embedded development, low-latency processing, and WebAssembly**.
+Computer engineering student passionate about **embedded systems, low-latency processing, and WebAssembly**.  
+Focused on building **hardware-software integrated systems**.
 
 - 🧬 **Bio-signal processing** — real-time EKG & RSP acquisition (LSL pipelines)  
 - 🌐 **WebAssembly** — porting optimized C algorithms to browser environments  
@@ -28,7 +28,7 @@ My focus is on **embedded development, low-latency processing, and WebAssembly**
 ## 🛠️ Technology Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,py,wasm,js,arduino,html,css,git,linux,visualstudio,pyside&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,py,js,arduino,html,css,git,linux,visualstudio&theme=dark" />
 </p>
 
 ---
@@ -75,8 +75,8 @@ My focus is on **embedded development, low-latency processing, and WebAssembly**
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aleeksa&show_icons=true&theme=transparent&title_color=00b4d8&icon_color=00b4d8&text_color=ffffff&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aleeksa&layout=compact&theme=transparent&title_color=00b4d8&text_color=ffffff&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Aleeksa&show_icons=true&theme=dark&title_color=00b4d8&icon_color=00b4d8&text_color=ffffff&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aleeksa&layout=compact&theme=dark&title_color=00b4d8&text_color=ffffff&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
@@ -88,8 +88,11 @@ My focus is on **embedded development, low-latency processing, and WebAssembly**
 ## 📫 Contact
 
 <p align="center">
-  <a href="mailto:aleksa.antic1205@email.com">
+  <a href="mailto:aleksantic@email.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/aleksa-antic">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
