@@ -1,5 +1,5 @@
 <h1 align="center">Aleksa Antić</h1>
-<h3 align="center">Computer Engineering • Embedded & Systems</h3>
+<h3 align="center">Student Računarskog Inženjerstva • Embedded & Systems</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Profile-Views-blueviolet?style=for-the-badge&logo=github" />
@@ -9,19 +9,19 @@
 
 ---
 
-## 🚀 About Me
+## 🚀 O meni
 
-Computer engineering student passionate about **embedded systems, low-latency processing, and WebAssembly**.  
-Focused on building **hardware-software integrated systems**.
+Student **Računarskog inženjerstva na RAF-u**, fokusiran na **embedded sisteme, nisko-latentnu obradu i WebAssembly**.  
+Strastven sam u kreiranju sistema gde se **hardver i softver savršeno kombinuju**.  
 
-- 🧬 **Bio-signal processing** — real-time EKG & RSP acquisition (LSL pipelines)  
-- 🌐 **WebAssembly** — porting optimized C algorithms to browser environments  
-- 📟 **Embedded systems** — ESP32, Arduino, low-level C & concurrency  
-- ⚙️ **Algorithmic optimization** — memory-aware and performance-oriented solutions  
+- 🧬 **Obrada bio-signala** — real-time prikupljanje i analiza EKG & RSP signala (LSL pipelines)  
+- 🌐 **WebAssembly** — portovanje optimizovanih C algoritama u browser  
+- 📟 **Embedded sistemi** — ESP32, Arduino, low-level C i konkurentnost  
+- ⚙️ **Optimizacija algoritama** — memorijski i performansno efikasna rešenja  
 
 ---
 
-## 🛠️ Technology Stack
+## 🛠️ Tehnološki Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white" />
@@ -37,21 +37,21 @@ Focused on building **hardware-software integrated systems**.
 
 ---
 
-## 📂 Featured Projects
+## 📂 Istaknuti Projekti
 
 <table align="center">
   <tr>
     <td width="50%" style="padding: 10px; background-color: #0d1117; border-radius: 10px;">
       <h3 align="center">💓 Bio-Signal Suite</h3>
       <p align="center">
-        Real-time EKG/RSP acquisition and analysis system.
+        Sistem za prikupljanje i analizu EKG/RSP signala u realnom vremenu.
       </p>
       <p align="center"><code>Python</code> <code>LSL</code> <code>BLE</code></p>
     </td>
     <td width="50%" style="padding: 10px; background-color: #0d1117; border-radius: 10px;">
       <h3 align="center">🌐 WASM Engine</h3>
       <p align="center">
-        High-performance image and histogram processing directly in browser using C.
+        Brza obrada slika i histogram direktno u browseru koristeći C.
       </p>
       <p align="center"><code>C</code> <code>WebAssembly</code> <code>JavaScript</code></p>
     </td>
@@ -60,14 +60,14 @@ Focused on building **hardware-software integrated systems**.
     <td width="50%" style="padding: 10px; background-color: #0d1117; border-radius: 10px;">
       <h3 align="center">🤖 IoT Counter</h3>
       <p align="center">
-        Multi-threaded ESP32 counter with web server and LCD interface.
+        ESP32 brojač sa više niti, web server i LCD prikaz.
       </p>
       <p align="center"><code>ESP32</code> <code>MicroPython</code> <code>I2C</code></p>
     </td>
     <td width="50%" style="padding: 10px; background-color: #0d1117; border-radius: 10px;">
       <h3 align="center">🎹 Serial Rhythm</h3>
       <p align="center">
-        Music rhythm transmitter from PC to microcontroller via serial port.
+        Prenos muzičkog ritma sa računara na mikrokontroler preko serijskog porta.
       </p>
       <p align="center"><code>C</code> <code>Win32 API</code> <code>Serial</code></p>
     </td>
@@ -76,7 +76,7 @@ Focused on building **hardware-software integrated systems**.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistika
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Aleeksa&show_icons=true&theme=dark&hide_border=true" width="48%" />
@@ -89,7 +89,7 @@ Focused on building **hardware-software integrated systems**.
 
 ---
 
-## 📫 Contact
+## 📫 Kontakt
 
 <p align="center">
   <a href="mailto:aleksantic@email.com">
