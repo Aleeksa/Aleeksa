@@ -43,19 +43,19 @@ Strastven sam u kreiranju sistema gde se **hardver i softver savršeno kombinuju
 
 <table align="center">
   <tr>
+     <td width="50%" style="padding: 10px; background-color: #0d1117; border-radius: 10px;">
+      <h3 align="center">🌐 WASM Engine</h3>
+      <p align="center">
+        Brza obrada slika i histogram direktno u browseru koristeći C.
+      </p>
+      <p align="center"><code>C</code> <code>WebAssembly</code> <code>JavaScript</code></p>
+    </td>
     <td width="50%" style="padding: 10px; background-color: #0d1117; border-radius: 10px;">
       <h3 align="center">💓 Bio-Signal Suite</h3>
       <p align="center">
         Sistem za prikupljanje i analizu EKG/RSP signala u realnom vremenu.
       </p>
       <p align="center"><code>Python</code> <code>LSL</code> <code>BLE</code></p>
-    </td>
-    <td width="50%" style="padding: 10px; background-color: #0d1117; border-radius: 10px;">
-      <h3 align="center">🌐 WASM Engine</h3>
-      <p align="center">
-        Brza obrada slika i histogram direktno u browseru koristeći C.
-      </p>
-      <p align="center"><code>C</code> <code>WebAssembly</code> <code>JavaScript</code></p>
     </td>
   </tr>
   <tr>
