@@ -1,5 +1,5 @@
 <h1 align="center">Aleksa Antić</h1>
-<h3 align="center">• Embedded & Systems •</h3>
+<h3 align="center">• Computer Engineering Embedded & Systems •</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Profile-Views-blueviolet?style=for-the-badge&logo=github" />
@@ -83,19 +83,12 @@ Strastven sam u kreiranju sistema gde se **hardver i softver savršeno kombinuju
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aleeksa&layout=compact&theme=dark&hide_border=true" width="48%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aleeksa&theme=dracula&hide_border=true" width="100%" />
-</p>
-
 ---
 
 ## 📫 Kontakt
 
 <p align="center">
-  <a href="mailto:aleksantic@email.com">
+  <a href="mailto:aleksa.antic1205@yahoo.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/aleksa-antic">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
