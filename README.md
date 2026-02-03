@@ -1,14 +1,10 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=thicket&color=00b4d8&height=200&section=header&text=Aleksa%20Antic&fontSize=80&animation=twinkling&fontAlignY=38&fontColor=ffffff" />
-</p>
-
 <h1 align="center">Aleksa Antić</h1>
 <h3 align="center">Computer Engineering • Embedded & Systems</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Aleeksa&label=PROFILE%20VIEWS&color=00b4d8&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/RAF-131%2F23%20RI-7A7ADB?style=for-the-badge&logo=academia" />
-  <img src="https://img.shields.io/badge/LOCATION-BEOGRAD-0077B5?style=for-the-badge&logo=google-maps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Profile-Views-blueviolet?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/RAF-131%2F23%20RI-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Location-Beograd-0077B5?style=for-the-badge&logo=google-maps&logoColor=white" />
 </p>
 
 ---
@@ -28,7 +24,15 @@ Focused on building **hardware-software integrated systems**.
 ## 🛠️ Technology Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,py,js,arduino,html,css,git,linux,visualstudio&theme=dark" />
+  <img src="https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
 ---
@@ -72,15 +76,15 @@ Focused on building **hardware-software integrated systems**.
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aleeksa&show_icons=true&theme=dark&title_color=00b4d8&icon_color=00b4d8&text_color=ffffff&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aleeksa&layout=compact&theme=dark&title_color=00b4d8&text_color=ffffff&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Aleeksa&show_icons=true&theme=dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aleeksa&layout=compact&theme=dark&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aleeksa&theme=tokyo-night&bg_color=00000000&hide_border=true&color=00b4d8" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aleeksa&theme=dracula&hide_border=true" width="100%" />
 </p>
 
 ---
@@ -94,8 +98,4 @@ Focused on building **hardware-software integrated systems**.
   <a href="https://linkedin.com/in/aleksa-antic">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7TKSjPqcKInwSjg4/giphy.gif" width="180" />
 </p>
