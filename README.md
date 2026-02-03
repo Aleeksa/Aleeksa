@@ -1,4 +1,4 @@
-# <p align="center">🚀 Aleksa Antić | Computer Engineering Student</p>
+# <p align="center"> Aleksa Antić | Computer Engineering Student</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/render?type=waving&color=0099ff&height=200&section=header&text=Aleksa%20Antic&fontSize=70&animation=twinkling&fontAlignY=38" />
