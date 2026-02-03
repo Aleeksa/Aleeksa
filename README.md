@@ -1,4 +1,4 @@
-<h1 align="center">Aleksa Antić</h1>
+<h1 align="left">Aleksa Antić</h1>
 <h3 align="center">• Computer Engineering Embedded & Systems •</h3>
 
 <p align="center">
@@ -90,6 +90,6 @@ Strastven sam u kreiranju sistema gde se **hardver i softver savršeno kombinuju
 
 <p align="center">
   <a href="mailto:aleksa.antic1205@yahoo.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=yahoo&logoColor=white" />
   </a>
 </p>
