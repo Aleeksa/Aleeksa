@@ -1,88 +1,100 @@
-# 👋 Zdravo, ja sam Aleeksa
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=thicket&color=00b4d8&height=200&section=header&text=Aleksa%20Antic&fontSize=80&animation=twinkling&fontAlignY=38&fontColor=ffffff" />
+</p>
 
-🧠 **Embedded / Systems Developer**  
-⚙️ C • Arduino • ESP32 • Raspberry Pi • WASM
+<h1 align="center">Aleksa Antić</h1>
+<h3 align="center">Computer Engineering • Embedded & Systems</h3>
 
-Radim blizu hardvera. Volim kada kod **direktno upravlja stvarima u realnom svetu**.
-
----
-
-## 🧩 Fokus
-
-- 🧠 **Embedded sistemi**
-- ⚙️ **C / low-level programiranje**
-- 📡 **ESP32, Arduino, Raspberry Pi**
-- 🧪 **Senzori, komunikacija, real-time logika**
-- 🌐 **WebAssembly (WASM)** za efikasan kod blizu metala
-
-Bez framework-overloada.  
-Bez magije.  
-Znam šta se dešava ispod haube.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Aleeksa&label=PROFILE%20VIEWS&color=00b4d8&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAF-131%2F23%20RI-7A7ADB?style=for-the-badge&logo=academia" />
+  <img src="https://img.shields.io/badge/LOCATION-BEOGRAD-0077B5?style=for-the-badge&logo=google-maps&logoColor=white" />
+</p>
 
 ---
 
-## 🔧 Tehnologije & alati
+## 🚀 About Me
 
-**Jezici**
-- C
-- C++
-- MicroPython
-- Assembly (osnove)
+Computer engineering student focused on **systems where hardware and software meet**.  
+Strong interest in **low-latency processing, embedded systems and WebAssembly**.
 
-**Hardver / platforme**
-- ESP32
-- Arduino (Nano, Uno, R4)
-- Raspberry Pi
-- Ultrasonic, I2C, SPI, UART moduli
-
-**Sistemi**
-- Linux (Arch, Ubuntu)
-- Embedded Linux (osnove)
-- WebAssembly (WASM)
+- 🧬 **Bio-signal processing** — real-time EKG & RSP acquisition (LSL pipelines)
+- 🌐 **WebAssembly** — porting optimized C algorithms to the browser
+- 📟 **Embedded systems** — ESP32, Arduino, low-level C & concurrency
+- ⚙️ **Algorithms** — memory-aware and performance-oriented solutions
 
 ---
 
-## 🚀 Tip projekata koje pravim
+## 🛠️ Technology Stack
 
-- 📏 Brojači i sistemi sa **ultrasonic senzorima**
-- 📟 LCD / I2C interfejsi
-- 📊 Embedded sistemi sa **SD karticom i memorijom**
-- 🌐 ESP32 **web serveri**
-- 🔄 Persistentni sistemi (state nakon restartovanja)
-- 🧪 Eksperimenti sa **WASM + C**
-
-*(Najbolje projekte pinujem na profilu 👇)*
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,py,wasm,js,arduino,html,css,git,linux,visualstudio,pyside&theme=dark" />
+</p>
 
 ---
 
-## 🧠 Filozofija
+## 📊 GitHub Analytics
 
-> Ako ne razumem kako radi ispod,
-> ne smatram da znam tehnologiju.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aleeksa&show_icons=true&theme=transparent&title_color=00b4d8&icon_color=00b4d8&text_color=ffffff&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aleeksa&layout=compact&theme=transparent&title_color=00b4d8&text_color=ffffff&hide_border=true" width="48%" />
+</p>
 
-- Preferiram **C umesto apstrakcija**
-- Volim **determinističko ponašanje**
-- Embedded > cloud
-- Datasheet > tutorial
-
----
-
-## 📍 O meni
-
-- 🇷🇸 Srbija
-- 🎓 Student / samostalni developer
-- 🎯 Cilj: ozbiljni embedded i sistemski projekti
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aleeksa&theme=tokyo-night&bg_color=00000000&hide_border=true&color=00b4d8" />
+</p>
 
 ---
 
-## 📫 Kontakt
+## 📂 Featured Projects
 
-Ako ti treba neko za:
-- embedded projekte  
-- ESP32 / Arduino sisteme  
-- low-level logiku  
-
-📬 Piši mi ovde na GitHub-u.
+<table align="center">
+  <tr>
+    <td width="50%">
+      <h3 align="center">💓 Bio-Signal Suite</h3>
+      <p align="center">
+        Real-time EKG/RSP signal acquisition and analysis system.
+      </p>
+      <p align="center"><code>Python</code> <code>LSL</code> <code>BLE</code></p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🌐 WASM Engine</h3>
+      <p align="center">
+        High-performance image and histogram processing in browser using C.
+      </p>
+      <p align="center"><code>C</code> <code>WebAssembly</code> <code>JavaScript</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🤖 IoT Counter</h3>
+      <p align="center">
+        Multi-threaded ESP32 counter with web server and LCD interface.
+      </p>
+      <p align="center"><code>ESP32</code> <code>MicroPython</code> <code>I2C</code></p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🎹 Serial Rhythm</h3>
+      <p align="center">
+        Music rhythm transmitter from PC to microcontroller over serial.
+      </p>
+      <p align="center"><code>C</code> <code>Win32 API</code> <code>Serial</code></p>
+    </td>
+  </tr>
+</table>
 
 ---
-⭐ Ako ti je embedded blizak — tu smo.
+
+## 🐍 Contribution Flow
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Aleeksa/Aleeksa/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+<h4 align="center">
+📫 Contact:
+<a href="mailto:aleksantic@email.com">Email</a> ·
+<a href="https://linkedin.com/in/aleksa-antic">LinkedIn</a>
+</h4>
