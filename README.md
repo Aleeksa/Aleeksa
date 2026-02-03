@@ -1,5 +1,5 @@
 <h1 align="center">Aleksa Antić</h1>
-<h3 align="center">Student Računarskog Inženjerstva • Embedded & Systems</h3>
+<h3 align="center">• Embedded & Systems •</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Profile-Views-blueviolet?style=for-the-badge&logo=github" />
