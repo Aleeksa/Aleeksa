@@ -1,83 +1,86 @@
-# <p align="center"> Aleksa Antić | Computer Engineering Student</p>
+# <p align="center">✨ Aleksa Antić | Computer Engineering ✨</p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=0099ff&height=200&section=header&text=Aleksa%20Antic&fontSize=70&animation=twinkling&fontAlignY=38" />
+  <img src="https://capsule-render.vercel.app/render?type=thicket&color=00b4d8&height=200&section=header&text=Aleksa%20Antic&fontSize=80&animation=twinkling&fontAlignY=38" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TVOJ_USERNAME&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Views" />
-  <img src="https://img.shields.io/badge/University-RAF-red?style=flat-square&logo=academia" />
-  <img src="https://img.shields.io/badge/Status-Active%20Developer-green?style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=TVOJ_USERNAME&label=PROFILE%20VIEWS&color=00b4d8&style=for-the-badge" alt="Views" />
+  <img src="https://img.shields.io/badge/STUDENT-RAF%20RI-blueviolet?style=for-the-badge&logo=micro-dot-blog" />
+  <img src="https://img.shields.io/badge/LOCATION-BELGRADE-0077B5?style=for-the-badge&logo=google-maps&logoColor=white" />
 </p>
 
 ---
 
-### 💫 O meni
-Ja sam student **Računarskog inženjerstva** (131/23 RI) fokusiran na razvoj sistema gde se susreću hardver i softver. Moja strast je optimizacija koda i rad sa podacima u realnom vremenu.
+### ⚡ O meni
+Ja sam **inženjer u nastajanju** koji veruje da je najbolji softver onaj koji "oseća" hardver. Fokusiran sam na sisteme niske latencije, IoT rešenja i modernu optimizaciju koda.
 
-- 🧬 **Bio-Tech:** Razvijam sisteme za akviziciju i analizu EKG i RSP signala (LSL protokol).
-- 🌐 **WebAssembly:** Portujem kompleksne C algoritme u browser radi maksimalnih performansi.
-- 📟 **IoT & Embedded:** Rad sa ESP32 kontrolerima, senzorima i serijskom komunikacijom.
-- ⚙️ **Low-Level:** Rešavam algoritamske probleme direktnom manipulacijom memorije u C-u.
-
-
+* 🔭 **Trenutno istražujem:** Duboku analizu biometrijskih podataka kroz **LSL** (Lab Streaming Layer).
+* 🚀 **Specijalnost:** Prebacivanje teških C algoritama na Web koristeći **WebAssembly**.
+* 📟 **Hardver:** Programiranje **ESP32** i **Arduino** kontrolera u realnom vremenu.
+* 📫 **Kontakt:** `131/23 RI`
 
 ---
 
 ### 🛠️ Tehnološki Stack
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,py,wasm,js,arduino,html,css,git,visualstudio,pyside,linux&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,wasm,js,arduino,html,css,git,linux,svg,visualstudio&theme=dark" />
   </a>
 </p>
 
 ---
 
-### 📂 Izdvojeni Projekti
+### 🌌 Portfolio Highlights
 
-> [!IMPORTANT]
-> Ovi projekti demonstriraju moju sposobnost rada u različitim okruženjima (Web, Desktop, Embedded).
-
-| Projekat | Opis | Tech Stack |
-| :--- | :--- | :--- |
-| **💓 Bio-LSL Analyzer** | Analiza srčanog ritma (HRV, RMSSD) u realnom vremenu koristeći BLE senzore. | `Python`, `LSL`, `Bleak` |
-| **⚡ Wasm Pi Engine** | Upoređivanje brzine Leibnitz-ove formule između JS i Wasm modula. | `C`, `Emscripten`, `JS` |
-| **🖼️ Real-time Filters** | Web alat za obradu slika i generisanje RGB histograma pomoću Wasm-a. | `C`, `WebAssembly`, `HTML5` |
-| **📟 Smart IoT Counter** | Multithreaded brojač objekata sa ESP32, LCD-om i Web serverom. | `MicroPython`, `HTTP`, `I2C` |
-
-
-
----
-
-### 📊 Moja Statistika
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TVOJ_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TVOJ_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TVOJ_USERNAME&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-</p>
-
----
-
-### 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/TVOJ_USERNAME/TVOJ_USERNAME/output/github-contribution-grid-snake.svg" alt="snake" />
-</p>
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>💓 Bio-LSL Analyzer</h4>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+      <p>Sistem za analizu otkucaja srca i disanja u realnom vremenu uz BLE podršku.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🌐 Wasm Image Processing</h4>
+      <img src="https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white" />
+      <p>Portovanje C filtera i histograma u browser za ultra-brzu obradu slika.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🤖 IoT Smart Counter</h4>
+      <img src="https://img.shields.io/badge/MicroPython-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+      <p>Multithreading ESP32 projekat sa LCD prikazom i lokalnim Web serverom.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🎹 Serial Rhythm Transmiter</h4>
+      <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
+      <p>Windows API aplikacija za direktnu komunikaciju PC-a sa muzičkim hardverom.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 📫 Povežimo se
+### 📊 Moja Aktivnost
 <p align="center">
-  <a href="mailto:tvoj-email@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/tvoj-profil">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=TVOJ_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&title_color=00b4d8&text_color=ffffff&icon_color=00b4d8" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TVOJ_USERNAME&layout=compact&theme=tokyonight&hide_border=true&title_color=00b4d8&text_color=ffffff" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJqZndueXp6Z3ZueXp6Z3ZueXp6Z3ZueXp6Z3ZueXp6Z3ZueXp6Z3ZueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L8K62iTD8VUXu/giphy.gif" width="300" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TVOJ_USERNAME&theme=tokyo-night&bg_color=00000000&hide_border=true&color=00b4d8" width="100%" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJqZndueXp6Z3ZueXp6Z3ZueXp6Z3ZueXp6Z3ZueXp6Z3ZueXp6Z3ZueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L8K62iTD8VUXu/giphy.gif" width="400" />
+</p>
+
+<h4 align="center">"Code is like humor. When you have to explain it, it’s bad." 💻✨</h4>
+
+<p align="center">
+  <a href="mailto:tvoj@email.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/tvojprofil"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
