@@ -1,8 +1,8 @@
 <h1 align="center">Aleksa Antić</h1>
-<h3 align="center">• Computer Engineering Embedded & Systems •</h3>
+<h3 align="center">• Embedded Systems Engineer •</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/University-RAF-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Company-RAF-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Location-Belgrade-0077B5?style=for-the-badge&logo=google-maps&logoColor=white" />
 </p>
 
@@ -10,12 +10,12 @@
 
 ## 🚀 O meni
 
-Student **Računarskog inženjerstva na RAF-u**, fokusiran na **embedded sisteme, nisko-latentnu obradu i WebAssembly**.  
-Strastven sam u kreiranju sistema gde se **hardver i softver savršeno kombinuju**.  
+Profesionalac u oblasti **Računarskog inženjerstva i embedded sistema**, sa fokusom na **nisko-latentnu obradu, IoT i WebAssembly**.  
+Strastven u razvoju sistema gde se **hardver i softver savršeno kombinuju**.  
 
 - 🧬 **Obrada bio-signala** — real-time prikupljanje i analiza EKG & RSP signala (LSL pipelines)  
 - 🌐 **WebAssembly** — portovanje optimizovanih C algoritama u browser  
-- 📟 **Embedded sistemi** — ESP32, Arduino, low-level C i konkurentnost  
+- 📟 **Embedded sistemi** — ESP32, Arduino, STM32, Raspberry Pi, low-level C & concurrency  
 - ⚙️ **Optimizacija algoritama** — memorijski i performansno efikasna rešenja  
 
 ---
@@ -89,5 +89,8 @@ Strastven sam u kreiranju sistema gde se **hardver i softver savršeno kombinuju
 <p align="center">
   <a href="mailto:aleksa.antic1205@yahoo.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/aleksa-antic">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
