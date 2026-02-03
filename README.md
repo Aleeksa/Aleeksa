@@ -3,8 +3,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Profile-Views-blueviolet?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/RAF-131%2F23%20RI-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Location-Beograd-0077B5?style=for-the-badge&logo=google-maps&logoColor=white" />
+  <img src="https://img.shields.io/badge/University-RAF-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Location-Vranje-0077B5?style=for-the-badge&logo=google-maps&logoColor=white" />
 </p>
 
 ---
@@ -25,8 +25,13 @@ Strastven sam u kreiranju sistema gde se **hardver i softver savršeno kombinuju
 
 <p align="center">
   <img src="https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/ESP32-0078D7?style=for-the-badge&logo=esp32&logoColor=white" />
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pico-2EB67D?style=for-the-badge&logo=raspberry-pi&logoColor=white" />
+  <img src="https://img.shields.io/badge/STM32-005BAC?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
