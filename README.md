@@ -4,7 +4,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/University-RAF-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Location-Belgrade-0077B5?style=for-the-badge&logo=google-maps&logoColor=white" /> 
-  <img src="https://media.tenor.com/bhewUhwCTYYAAAAi/tux-linux-tux.gif" width="200" />
+  <img src="https://media.tenor.com/bhewUhwCTYYAAAAi/tux-linux-tux.gif" width="50" />
 </p>
 
 ---
