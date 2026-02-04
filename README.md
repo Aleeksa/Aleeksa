@@ -2,9 +2,12 @@
 <h3 align="center">• Computer Engineering Embedded & Systems •</h3>
 
 <p align="center">
+  <img src="https://media.tenor.com/bhewUhwCTYYAAAAi/tux-linux-tux.gif" width="150" />
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/University-RAF-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Location-Belgrade-0077B5?style=for-the-badge&logo=google-maps&logoColor=white" /> 
-  <img src="https://media.tenor.com/bhewUhwCTYYAAAAi/tux-linux-tux.gif" width="50" />
 </p>
 
 ---
