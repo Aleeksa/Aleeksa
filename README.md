@@ -12,19 +12,19 @@
 
 ---
 
-## 🚀 O meni
+## 🚀 About Me
 
-Student **Računarskog inženjerstva na RAF-u**, fokusiran na **embedded sisteme, nisko-latentnu obradu i WebAssembly**.  
-Strastven sam u kreiranju sistema gde se **hardver i softver savršeno kombinuju**.  
+**Computer Engineering student at RAF**, focused on **embedded systems, low-latency processing, and WebAssembly**.  
+I am passionate about building systems where **hardware and software combine perfectly**.  
 
-- 🧬 **Obrada bio-signala** — real-time prikupljanje i analiza EKG & RSP signala (LSL pipelines)  
-- 🌐 **WebAssembly** — portovanje optimizovanih C algoritama u browser  
-- 📟 **Embedded sistemi** — ESP32, Arduino, low-level C i konkurentnost  
-- ⚙️ **Optimizacija algoritama** — memorijski i performansno efikasna rešenja  
+- 🧬 **Bio-signal Processing** — real-time acquisition and analysis of ECG & RSP signals (LSL pipelines)  
+- 🌐 **WebAssembly** — porting optimized C algorithms to the browser  
+- 📟 **Embedded Systems** — ESP32, Arduino, low-level C, and concurrency  
+- ⚙️ **Algorithm Optimization** — memory and performance-efficient solutions  
 
 ---
 
-## 🛠️ Tehnološki Stack
+## 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white" />
@@ -43,21 +43,21 @@ Strastven sam u kreiranju sistema gde se **hardver i softver savršeno kombinuju
 
 ---
 
-## 📂 Istaknuti Projekti
+## 📂 Featured Projects
 
 <table align="center">
   <tr>
-     <td width="50%" style="padding: 10px; background-color: #0d1117; border-radius: 10px;">
+      <td width="50%" style="padding: 10px; background-color: #0d1117; border-radius: 10px;">
       <h3 align="center">🌐 WASM Engine</h3>
       <p align="center">
-        Brza obrada slika i histogram direktno u browseru koristeći C.
+        High-speed image processing and histograms directly in the browser using C.
       </p>
       <p align="center"><code>C</code> <code>WebAssembly</code> <code>JavaScript</code></p>
     </td>
     <td width="50%" style="padding: 10px; background-color: #0d1117; border-radius: 10px;">
       <h3 align="center">💓 Bio-Signal Suite</h3>
       <p align="center">
-        Sistem za prikupljanje i analizu EKG/RSP signala u realnom vremenu.
+        A system for real-time acquisition and analysis of ECG/RSP signals.
       </p>
       <p align="center"><code>Python</code> <code>LSL</code> <code>BLE</code></p>
     </td>
@@ -66,14 +66,14 @@ Strastven sam u kreiranju sistema gde se **hardver i softver savršeno kombinuju
     <td width="50%" style="padding: 10px; background-color: #0d1117; border-radius: 10px;">
       <h3 align="center">🤖 IoT Counter</h3>
       <p align="center">
-        ESP32 brojač sa više niti, web server i LCD prikaz.
+        Multi-threaded ESP32 counter with a web server and LCD display.
       </p>
       <p align="center"><code>ESP32</code> <code>MicroPython</code> <code>I2C</code></p>
     </td>
     <td width="50%" style="padding: 10px; background-color: #0d1117; border-radius: 10px;">
       <h3 align="center">🎹 Serial Rhythm</h3>
       <p align="center">
-        Prenos muzičkog ritma sa računara na mikrokontroler preko serijskog porta.
+        Transferring musical rhythm from PC to microcontroller via serial port.
       </p>
       <p align="center"><code>C</code> <code>Win32 API</code> <code>Serial</code></p>
     </td>
@@ -82,7 +82,7 @@ Strastven sam u kreiranju sistema gde se **hardver i softver savršeno kombinuju
 
 ---
 
-## 📊 GitHub Statistika
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aleeksa&theme=dracula&hide_border=true" width="100%" />
@@ -90,7 +90,7 @@ Strastven sam u kreiranju sistema gde se **hardver i softver savršeno kombinuju
 
 ---
 
-## 📫 Kontakt
+## 📫 Contact
 
 <p align="center">
   <a href="mailto:aleksa.antic1205@gmail.com">
