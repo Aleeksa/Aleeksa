@@ -99,4 +99,7 @@ I am passionate about building systems where **hardware and software combine per
   <a href="https://discord.com/users/aantic12">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
+  <a href="https://www.linkedin.com/in/%D0%B0%D0%BB%D0%B5%D0%BA%D1%81%D0%B0-%D0%B0%D0%BD%D1%82%D0%B8%D1%9B-7052613b8" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)" />
+  </a>
 </p>
