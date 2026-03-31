@@ -12,33 +12,30 @@
 
 ---
 
-# 🛰️ IoT Dashboard: ToF Sensor Analytics
+## 🚀 About Me
 
-This repository contains a high-precision object counter and real-time distance monitoring system powered by **ESP32** and the **VL53L1X Time-of-Flight (ToF)** laser sensor. 
+**Computer Engineering student at RAF**, focused on **embedded systems, low-latency processing, and WebAssembly**.  
+I am passionate about building systems where **hardware and software combine perfectly**.  
 
-It features a professional **Web Dashboard** for real-time visualization, statistical reporting, and data logging, designed for low-latency embedded monitoring.
-
-## ✨ Project Features
-- **Real-Time Visualization:** Live distance tracking with dynamic SVG/Canvas charts.
-- **Intelligent Counting:** Logic with **hysteresis** and a **lockout period** to prevent false triggers.
-- **Advanced Reporting:** Automatic data grouping (Hourly/Daily/Weekly).
-- **Data Export:** Export logs to CSV directly from the dashboard.
-- **Responsive UI:** Full Dark/Light mode support with a clean industrial design.
+- 🧬 **Bio-signal Processing** — real-time acquisition and analysis of ECG & RSP signals (LSL pipelines)  
+- 🌐 **WebAssembly** — porting optimized C algorithms to the browser  
+- 📟 **Embedded Systems** — ESP32, Arduino, low-level C, and concurrency  
+- ⚙️ **Algorithm Optimization** — memory and performance-efficient solutions  
 
 ---
 
 ## 🛠️ Tech Stack
 
-### ⚡ Core Languages & Embedded
+### ⚡ Core & Embedded
 <p align="left">
   <img src="https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
   <img src="https://img.shields.io/badge/ESP32-0078D7?style=for-the-badge&logo=esp32&logoColor=white" />
   <img src="https://img.shields.io/badge/STM32-005BAC?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
   <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pico-2EB67D?style=for-the-badge&logo=raspberry-pi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
 ### 🌐 Web & Performance
@@ -50,24 +47,13 @@ It features a professional **Web Dashboard** for real-time visualization, statis
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </p>
 
-### 🔧 Tools & Environment
+### 🔧 Tools & Other
 <p align="left">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/XAMPP-FCC624?style=for-the-badge&logo=xampp&logoColor=black" />
 </p>
-
----
-
-## 🚀 About Me
-
-**Computer Engineering student at RAF**, focused on **embedded systems, low-latency processing, and WebAssembly**.  
-I am passionate about building systems where **hardware and software combine perfectly**.  
-
-- 🧬 **Bio-signal Processing** — real-time acquisition and analysis of ECG & RSP signals.
-- 🌐 **WebAssembly** — porting optimized C algorithms to the browser.
-- 📟 **Embedded Systems** — ESP32, STM32, low-level C, and concurrency.
-- ⚙️ **Algorithm Optimization** — memory and performance-efficient solutions.
 
 ---
 
@@ -92,11 +78,11 @@ I am passionate about building systems where **hardware and software combine per
   </tr>
   <tr>
     <td width="50%" style="padding: 10px; background-color: #0d1117; border-radius: 10px;">
-      <h3 align="center">📊 IoT Dashboard</h3>
+      <h3 align="center">🤖 IoT Counter</h3>
       <p align="center">
-        Real-time ToF sensor analytics with WebServer and LittleFS logging.
+        Multi-threaded ESP32 counter with a web server and LCD display.
       </p>
-      <p align="center"><code>ESP32</code> <code>C++</code> <code>Vanilla JS</code></p>
+      <p align="center"><code>ESP32</code> <code>C++</code> <code>I2C</code></p>
     </td>
     <td width="50%" style="padding: 10px; background-color: #0d1117; border-radius: 10px;">
       <h3 align="center">🎹 Serial Rhythm</h3>
