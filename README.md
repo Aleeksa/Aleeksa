@@ -78,11 +78,11 @@ I am passionate about building systems where **hardware and software combine per
   </tr>
   <tr>
     <td width="50%" style="padding: 10px; background-color: #0d1117; border-radius: 10px;">
-      <h3 align="center">🤖 IoT Counter</h3>
+      <h3 align="center">📊 IoT Dashboard</h3>
       <p align="center">
-        Multi-threaded ESP32 counter with a web server and LCD display.
+        Real-time ToF sensor analytics with WebServer and LittleFS logging.
       </p>
-      <p align="center"><code>ESP32</code> <code>C++</code> <code>I2C</code></p>
+      <p align="center"><code>ESP32</code> <code>C++</code> <code>Vanilla JS</code></p>
     </td>
     <td width="50%" style="padding: 10px; background-color: #0d1117; border-radius: 10px;">
       <h3 align="center">🎹 Serial Rhythm</h3>
