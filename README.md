@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 
-**Computer Engineering student at RAF**, focused on **embedded systems, low-latency processing, and Real-Time Operating Systems**.  
+**Computer Engineering student at RAF**, focused on **embedded systems, low-latency processing, and real-time operating systems**.  
 I am passionate about building systems where **hardware and software combine perfectly**.  
 
 - 🧬 **Bio-signal Processing** — real-time acquisition and analysis of ECG & RSP signals (LSL pipelines)  
